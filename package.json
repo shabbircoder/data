@@ -1,0 +1,16 @@
+
+
+{
+  "name": "your-project-name",
+  "version": "1.0.0",
+  "scripts": {
+    "start-server": "json-server --watch data.json --port 8080",
+    "start": "react-scripts start"
+  },
+  "dependencies": {
+    "json-server": "^0.16.3",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-scripts": "4.0.3"
+  }
+}
